@@ -1,12 +1,9 @@
 header{
       background-color: #424e61;
       color: white;
-
-  .cabecalio-imagem{
-      
-  }
-      
-
-
-
 }
+  .cabecalio-imagem{
+      width: 20%; 
+}
+   
+  
