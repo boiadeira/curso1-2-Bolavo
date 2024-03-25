@@ -22,7 +22,9 @@
 
 .escola {
   background-image: -moz-linear-gradient(#424E61, #4EBFE9);
-
+ color:white;
+ display: flex;
+ justify-content: center;
 }
 
 .escola-div-conteudo {
