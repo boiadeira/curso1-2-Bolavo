@@ -1,6 +1,6 @@
 .cabecalho {
-  background-color: #424e61;
-  color: white;
+  background-color: #e900dd(320, 100%, 59%);
+  color: rgb(255, 0, 0);
   display: flex;
   flex-direction: row;
   justify-content: space-around;
